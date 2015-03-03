@@ -14,7 +14,7 @@ Rekmob unity plugin for android.
 
 ## API Documentation
 
-`Plugins/RekmobAndroid/RekmobAndroid.cs` contains following methods:
+`Assets/RekmobAndroid/RekmobAndroid.cs` contains following methods:
 
 ```
 /*
@@ -48,7 +48,7 @@ public static void showInterstitalAd()
 
 ````
 
-You can find following methods in `Plugins/RekmobAndroid/RekmobAndroidManager.cs` 
+You can find following methods in `Assets/RekmobAndroid/RekmobAndroidManager.cs` 
 
 ```
 // Fired when a new banner ad is loaded
@@ -85,7 +85,7 @@ public void onInterstitialDismissed( string empty )
 
 ```
 
-You can find examples how this api can be used. `Plugins/RekmobAndroid/example/RekmobUIManager.cs`
+You can find examples how this api can be used. `Assets/RekmobAndroid/example/RekmobUIManager.cs`
 
 
 > [![Mobile Ad Network](https://rekmob.s3.amazonaws.com/img/logo.png)](https://www.rekmob.com)
