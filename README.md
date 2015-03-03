@@ -10,7 +10,7 @@ Rekmob unity plugin for android.
 
 **Unity projelerinde Android için Rekmob entegrasyonu** (Türkçe)
 
-- [Android Banner Entegrasyonu](https://github.com/rekmob/unity-android-sdk/wiki/Android-Banner-Reklam-Entegrasyonu)
+- [Android Banner Entegrasyonu](https://github.com/rekmob/unity-android-sdk/wiki/Android-Banner-Integration)
 
 ## API Documentation
 
